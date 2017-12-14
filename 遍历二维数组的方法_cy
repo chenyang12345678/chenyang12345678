@@ -1,0 +1,2 @@
+ 使用下标
+for(int i = 0; i< LengthOfClass; i++) {//class[i]就是第数组i+1个元素};
